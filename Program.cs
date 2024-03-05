@@ -12,12 +12,9 @@ namespace les1
         {
 
             Console.WriteLine("i love me❤️!!!!!");
-
-<<<<<<< Updated upstream
             Console.WriteLine("love you❤️?!");
-=======
-            Console.WriteLine("you❤️💕!?!");
->>>>>>> Stashed changes
+            Console.WriteLine("I Love You!!");
+
 
             Console.ReadLine();
         }
