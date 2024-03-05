@@ -16,7 +16,7 @@ namespace les1
 <<<<<<< Updated upstream
             Console.WriteLine("love you❤️?!");
 =======
-            Console.WriteLine("love you❤️💕!?!");
+            Console.WriteLine("you❤️💕!?!");
 >>>>>>> Stashed changes
 
             Console.ReadLine();
