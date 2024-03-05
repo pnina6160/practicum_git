@@ -10,11 +10,11 @@ namespace les1
     {
         static void Main(string[] args)
         {
-<<<<<<< Updated upstream
+
             Console.WriteLine("i love me❤️!!!!!");
-=======
-            Console.WriteLine("love you❤️🤣🤣🤣🤣");
->>>>>>> Stashed changes
+
+            Console.WriteLine("love you❤️🤣🤣🤣!");
+
             Console.ReadLine();
         }
     }
