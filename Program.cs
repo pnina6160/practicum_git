@@ -10,7 +10,7 @@ namespace les1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("i love you❤️");
+            Console.WriteLine("i love me❤️!!!!!");
             Console.ReadLine();
         }
     }
