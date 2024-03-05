@@ -13,7 +13,7 @@ namespace les1
 
             Console.WriteLine("i love me❤️!!!!!");
 
-            Console.WriteLine("love you❤️!!!!");
+            Console.WriteLine("love you❤️?!");
 
             Console.ReadLine();
         }
