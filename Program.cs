@@ -11,7 +11,7 @@ namespace les1
         static void Main(string[] args)
         {
 
-            Console.WriteLine("i love me❤️????");
+            Console.WriteLine("i love me❤️❤️❤️❤️");
             Console.WriteLine("love you❤️?!");
            Console.WriteLine("I love you!!!!");
 
