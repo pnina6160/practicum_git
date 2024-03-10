@@ -14,7 +14,7 @@ namespace les1
 
             Console.WriteLine("i  like  Michal");
             Console.WriteLine("love you❤️?!");
-           Console.WriteLine("I love you💳");
+            int x = 1;
 
             Console.ReadLine();
         }
