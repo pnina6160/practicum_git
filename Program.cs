@@ -12,7 +12,7 @@ namespace les1
         {
 
 
-            Console.WriteLine("i  like  Michal");
+            Console.WriteLine("i  like  Pnina");
             Console.WriteLine("love you❤️?!");
            Console.WriteLine("I love you!!!!");
 
